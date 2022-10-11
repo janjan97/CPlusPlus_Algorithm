@@ -5,3 +5,6 @@
 
 Solution
 -----------
++ tolower()사용하여 소문자로 변환합니다
++ count를 이용하여 p와 y의 개수를 가감합니다.
++ count가 0이면 True, 0이아니면 False를 반환합니다.

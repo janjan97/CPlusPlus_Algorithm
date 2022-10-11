@@ -1,4 +1,4 @@
-// BJ_1110.cpp : ���ϱ����Ŭ (for, while )
+// BJ_1110.cpp : ´õÇÏ±â»çÀÌÅ¬ (for, while )
 //
 
 #include <iostream>
